@@ -5,16 +5,16 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
   },
   "dependencies": {
     "next": "12.1.6",
     "react": "18.1.0",
-    "react-dom": "18.1.0"
-  },
-  "devDependencies": {
-    "eslint": "8.14.0",
-    "eslint-config-next": "12.1.6"
+    "react-dom": "18.1.0",
+    "react-icons": "^4.3.1",
+    "styled-components": "^5.3.5",
+    "styled-normalize": "^8.0.7",
+    "url": "^0.11.0",
+    "url-parse": "^1.5.10"
   }
 }
