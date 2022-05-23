@@ -58,14 +58,11 @@ export const projects = [
     description:
       "Application using React and Bootstrap. This app is a weather app. It allows users to look for cities, countries and check their weather. You can also see the temperature, winds, clouds, longitude and latitude",
     image: "/images/WeatherApp.jpg",
-    tags: [
-      "React",
-      "Bootstrap",      
-    ],
+    tags: ["React", "Bootstrap"],
     source: "https://github.com/Juth7/weather-app",
     visit: "https://juth-weather-app.vercel.app/",
-    id: 2,
-  },  
+    id: 3,
+  },
   // {
   //   title: "CAlCULATOR",
   //   description:
@@ -74,7 +71,7 @@ export const projects = [
   //   tags: ["React", "TypeScript"],
   //   source: "https://google.com",
   //   visit: "https://google.com",
-  //   id: 3,
+  //   id: 4,
   // },
 ];
 
