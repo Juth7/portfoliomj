@@ -53,6 +53,19 @@ export const projects = [
     visit: "https://juth-pokemon.vercel.app/home",
     id: 2,
   },
+  {
+    title: "WEATHER APP",
+    description:
+      "Application using React and Bootstrap. This app is a pokemon app. It allows users to look for pokemons, filter by type and creation and create new pokemons.",
+    image: "/images/PokemonApp.jpg",
+    tags: [
+      "React",
+      "Bootstrap",      
+    ],
+    source: "https://github.com/Juth7/PI-Pokemon",
+    visit: "https://juth-weather-app.vercel.app/",
+    id: 2,
+  },  
   // {
   //   title: "CAlCULATOR",
   //   description:
@@ -68,6 +81,7 @@ export const projects = [
 export const TimeLineData = [
   { year: 2021, text: "Started the Bootcamp from Henry " },
   { year: 2021, text: "Worked as a Teacher Assistant" },
+  { year: 2021, text: "Created My First App, Weather App" },
   { year: 2022, text: "Created My First SPA with Pokemon" },
   { year: 2022, text: "Created My First SPA with Food Recipes" },
   { year: 2022, text: "Shared my projects on LinkedIn" },
