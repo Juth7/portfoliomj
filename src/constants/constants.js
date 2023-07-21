@@ -3,7 +3,7 @@ export const projects = [
     title: "Customizer ThreeJs",
     description:
       "Web to Customize a T-shirt with or without logo,with option to generate with AI",
-    image: "/images/Threejs-customize.jpg",
+    image: "/images/Threejs-customize.png",
     tags: [
       "ThreeJs",
       "Mongoose",
