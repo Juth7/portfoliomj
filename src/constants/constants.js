@@ -1,5 +1,23 @@
 export const projects = [
   {
+    title: "Customizer ThreeJs",
+    description:
+      "Web to Customize a T-shirt with or without logo,with option to generate with AI",
+    image: "/images/Threejs-customize.jpg",
+    tags: [
+      "ThreeJs",
+      "Mongoose",
+      "Express",
+      "React",
+      "Node",
+      "Framer-motion",
+      "TailwindCSS",
+    ],
+    source: "https://github.com/Juth7/customizer-threejs",
+    visit: "https://labellacollezione.com/",
+    id: 0,
+  },
+  {
     title: "TRAVEL APP",
     description:
       "Travel App created with MongoDB, Express, React, Redux, Node and TailwindCSS. It allows users to register, login, buy a package, view details, search by name, package, detail or any word, filter by price and location. Needs authorization depending on the user. Admins can ban and eliminate users, add and edit packages and view all users.",
@@ -14,8 +32,8 @@ export const projects = [
       "TailwindCSS",
     ],
     source: "https://github.com/Juth7/TravelApp-Group-Project",
-    visit: "https://deploy-travelapp.herokuapp.com/",
-    id: 0,
+    // visit: "https://deploy-travelapp.herokuapp.com/",
+    id: 1,
   },
   {
     title: "FOOD APP",
@@ -33,7 +51,7 @@ export const projects = [
     ],
     source: "https://github.com/Juth7/PI-FOOD",
     visit: "https://juth-food.vercel.app/home",
-    id: 1,
+    id: 2,
   },
   {
     title: "POKEMON APP",
@@ -51,7 +69,7 @@ export const projects = [
     ],
     source: "https://github.com/Juth7/PI-Pokemon",
     visit: "https://juth-pokemon.vercel.app/home",
-    id: 2,
+    id: 3,
   },
   {
     title: "WEATHER APP",
@@ -61,7 +79,7 @@ export const projects = [
     tags: ["React", "Bootstrap"],
     source: "https://github.com/Juth7/weather-app",
     visit: "https://juth-weather-app.vercel.app/",
-    id: 3,
+    id: 4,
   },
   // {
   //   title: "CAlCULATOR",
@@ -76,12 +94,13 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2021, text: "Started the Bootcamp from Henry " },
-  { year: 2021, text: "Worked as a Teacher Assistant" },
-  { year: 2021, text: "Created My First App, Weather App" },
-  { year: 2022, text: "Created My First SPA with Pokemon" },
-  { year: 2022, text: "Created My First SPA with Food Recipes" },
-  { year: 2022, text: "Shared my projects on LinkedIn" },
-  { year: 2022, text: "Participated on a group project, Travel App" },
-  { year: 2022, text: "Graduated from SoyHenry" },
+  { year: 2020, text: "Started the Bootcamp from Henry " },
+  { year: 2020, text: "Worked as a Teacher Assistant" },
+  { year: 2020, text: "Created My First App, Weather App" },
+  { year: 2021, text: "Created My First SPA with Pokemon" },
+  { year: 2021, text: "Created My First SPA with Food Recipes" },
+  { year: 2021, text: "Participated on a group project, Travel App" },
+  { year: 2021, text: "Graduated from SoyHenry" },
+  { year: 2021, text: "Started to Work at Tagwizz" },  
+  { year: 2022, text: "Started to Work at Newe" },  
 ];
