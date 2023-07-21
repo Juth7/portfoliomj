@@ -19,7 +19,7 @@ const Technologies = () => (
     <SectionDivider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I have experience working with the following technologies: JavaScript,
+      I have experience working with the following technologies: JavaScript, Typescript
       HTML, CSS, Node, React, Next, Express, Redux, Sequelize, Postgres, MongoDB
     </SectionText>
     <List>
@@ -40,7 +40,8 @@ const Technologies = () => (
           <ListParagraph>
             Experience with <br />
             tools like Figma, <br />
-            Bootstrap and Tailwind
+            Bootstrap, Tailwind <br />
+            and Material UI
           </ListParagraph>
         </ListContainer>
       </ListItem>

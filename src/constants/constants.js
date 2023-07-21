@@ -32,7 +32,7 @@ export const projects = [
       "TailwindCSS",
     ],
     source: "https://github.com/Juth7/TravelApp-Group-Project",
-    // visit: "https://deploy-travelapp.herokuapp.com/",
+    visit: "/",
     id: 1,
   },
   {
