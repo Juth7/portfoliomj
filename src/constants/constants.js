@@ -1,5 +1,23 @@
 export const projects = [
   {
+    title: "Dalle Social",
+    description:
+      "Create images using AI and share them with the community. Enter a prompt with your idea for an image or use the 'Surprise Me!' button, to generate a random prompt",
+    image: "",
+    tags: [
+      "Dalle",
+      "Mongoose",
+      "Node",
+      "React",
+      "Vite",
+      "OpenAI",
+      "TailwindCSS",
+    ],
+    source: "https://github.com/Juth7/dalle-social",
+    visit: "https://dalle-social.vercel.app/",
+    id: 0,
+  },
+  {
     title: "Customizer ThreeJs",
     description:
       "Web to Customize a T-shirt with or without logo,with option to generate with AI",
@@ -15,7 +33,25 @@ export const projects = [
     ],
     source: "https://github.com/Juth7/customizer-threejs",
     visit: "https://labellacollezione.com/",
-    id: 0,
+    id: 1,
+  },
+  {
+    title: "Customizer ThreeJs",
+    description:
+      "Web to Customize a T-shirt with or without logo,with option to generate with AI",
+    image: "/images/Threejs-customize.png",
+    tags: [
+      "ThreeJs",
+      "Mongoose",
+      "Express",
+      "React",
+      "Node",
+      "Framer-motion",
+      "TailwindCSS",
+    ],
+    source: "https://github.com/Juth7/customizer-threejs",
+    visit: "https://labellacollezione.com/",
+    id: 1,
   },
   {
     title: "TRAVEL APP",
@@ -33,7 +69,7 @@ export const projects = [
     ],
     source: "https://github.com/Juth7/TravelApp",
     visit: "https://travel-app-lac.vercel.app/",
-    id: 1,
+    id: 2,
   },
   {
     title: "FOOD APP",
@@ -51,7 +87,7 @@ export const projects = [
     ],
     source: "https://github.com/Juth7/PI-FOOD",
     visit: "https://juth-food.vercel.app/home",
-    id: 2,
+    id: 3,
   },
   {
     title: "POKEMON APP",
@@ -69,7 +105,7 @@ export const projects = [
     ],
     source: "https://github.com/Juth7/PI-Pokemon",
     visit: "https://juth-pokemon.vercel.app/home",
-    id: 3,
+    id: 4,
   },
   {
     title: "WEATHER APP",
@@ -79,7 +115,7 @@ export const projects = [
     tags: ["React", "Bootstrap"],
     source: "https://github.com/Juth7/weather-app",
     visit: "https://juth-weather-app.vercel.app/",
-    id: 4,
+    id: 5,
   },
   // {
   //   title: "CAlCULATOR",
