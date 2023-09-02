@@ -31,8 +31,8 @@ export const projects = [
       "Redux",
       "TailwindCSS",
     ],
-    source: "https://github.com/Juth7/TravelApp-Group-Project",
-    visit: "/",
+    source: "https://github.com/Juth7/TravelApp",
+    visit: "https://travel-app-lac.vercel.app/",
     id: 1,
   },
   {
