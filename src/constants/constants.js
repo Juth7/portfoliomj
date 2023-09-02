@@ -3,7 +3,7 @@ export const projects = [
     title: "Dalle Social",
     description:
       "Create images using AI and share them with the community. Enter a prompt with your idea for an image or use the 'Surprise Me!' button, to generate a random prompt",
-    image: "",
+    image: "/images/dalle-image.png",
     tags: [
       "Dalle",
       "Mongoose",
@@ -15,7 +15,7 @@ export const projects = [
     ],
     source: "https://github.com/Juth7/dalle-social",
     visit: "https://dalle-social.vercel.app/",
-    id: 0,
+    id: 6,
   },
   {
     title: "Customizer ThreeJs",
@@ -33,7 +33,7 @@ export const projects = [
     ],
     source: "https://github.com/Juth7/customizer-threejs",
     visit: "https://labellacollezione.com/",
-    id: 1,
+    id: 5,
   },
   {
     title: "Customizer ThreeJs",
@@ -51,7 +51,7 @@ export const projects = [
     ],
     source: "https://github.com/Juth7/customizer-threejs",
     visit: "https://labellacollezione.com/",
-    id: 1,
+    id: 4,
   },
   {
     title: "TRAVEL APP",
@@ -69,7 +69,7 @@ export const projects = [
     ],
     source: "https://github.com/Juth7/TravelApp",
     visit: "https://travel-app-lac.vercel.app/",
-    id: 2,
+    id: 3,
   },
   {
     title: "FOOD APP",
@@ -87,7 +87,7 @@ export const projects = [
     ],
     source: "https://github.com/Juth7/PI-FOOD",
     visit: "https://juth-food.vercel.app/home",
-    id: 3,
+    id: 2,
   },
   {
     title: "POKEMON APP",
@@ -105,7 +105,7 @@ export const projects = [
     ],
     source: "https://github.com/Juth7/PI-Pokemon",
     visit: "https://juth-pokemon.vercel.app/home",
-    id: 4,
+    id: 1,
   },
   {
     title: "WEATHER APP",
@@ -115,7 +115,7 @@ export const projects = [
     tags: ["React", "Bootstrap"],
     source: "https://github.com/Juth7/weather-app",
     visit: "https://juth-weather-app.vercel.app/",
-    id: 5,
+    id: 0,
   },
   // {
   //   title: "CAlCULATOR",
