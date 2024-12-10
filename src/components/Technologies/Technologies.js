@@ -19,8 +19,8 @@ const Technologies = () => (
     <SectionDivider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I have experience working with the following technologies: JavaScript, Typescript
-      HTML, CSS, Node, React, Next, Express, Redux, Sequelize, Postgres, MongoDB
+      I have experience working with the following technologies: JavaScript, Typescript, JQuery, 
+      HTML, CSS, Node, React, Next, Angular, Vue, Express, Redux, Sequelize, Postgres, MongoDB
     </SectionText>
     <List>
       <ListItem>
@@ -29,7 +29,7 @@ const Technologies = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js, Next and Redux
+            React.js, Next, Angular, Vue and Redux
           </ListParagraph>
         </ListContainer>
       </ListItem>
