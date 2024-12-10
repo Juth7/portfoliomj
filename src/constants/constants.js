@@ -122,5 +122,6 @@ export const TimeLineData = [
   { year: 2022, text: "Started to Work at Tagwizz" },  
   { year: 2022, text: "Started to Work at Newe" },  
   { year: 2023, text: "Created New Proyects using AI and ThreeJS" },  
-  { year: 2023, text: "Enrolled in courses in Web Development" },  
+  { year: 2023, text: "Enrolled in courses in Web Development" }, 
+  { year: 2023, text: "Started to work at The Rocket Code" },  
 ];
